@@ -1,7 +1,7 @@
 {
-  "name": "@looongda/smart-dialog",
+  "name": "@loonghe/smart-dialog",
   "version": "0.0.2",
-  "description": "looongda's first SFC(vue3 + single component + ts + scss) publish demo. This is a demo to verify steps.",
+  "description": "loonghe's first SFC(vue3 + single component + ts + scss) publish demo. This is a demo to verify steps.",
   "main": "dist/smart-dialog.ssr.js",
   "browser": "dist/smart-dialog.esm.js",
   "module": "dist/smart-dialog.esm.js",
